@@ -1,0 +1,6 @@
+{
+  "published_app_version": null,
+  "public_binary_release": "hold",
+  "reason": "Bundled dependency distribution licensing is unresolved.",
+  "last_review_date": "2026-10-29"
+}
